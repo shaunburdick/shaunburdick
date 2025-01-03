@@ -23,7 +23,6 @@ Engineering Leader. Developer. List Maker. Dad Joke Teller.
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 
-<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=shaunburdick&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false&show=reviews&rank_icon=github" alt="Shaun's github stats" />
-<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunburdick&layout=compact&theme=blueberry&hide_border=false" />
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=shaunburdick&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false&show=reviews&rank_icon=github" alt="Shaun's github stats" /> <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunburdick&layout=compact&theme=blueberry&hide_border=false" />
 
 <cite>Credit: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)</cite>
