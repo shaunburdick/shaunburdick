@@ -6,16 +6,16 @@
 
 ## About Me
 
-- Director of Engineering at [Coforma](https://coforma.io/)
 - Built [SOAR Platforms](https://swimlane.com/swimlane-turbine/), [Civic Voting Tools](https://vidaloop.com), [VA Forms](https://github.com/department-of-veterans-affairs)
 - I love building cool teams who build cool things!
-- Ask me about anything [here](https://github.com/shaunburdick/shaunburdick/issues)
+- Ask me about anything [here](https://github.com/shaunburdick/shaunburdick/issues) or [book](https://shaunburdick.com/calendar) some time to talk
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Currently Working On
 
-- Leading engineering teams at [Coforma](https://coforma.io/)
+- Building [HD Homey](https://github.com/shaunburdick/hd-homey) to proxy and share broadcast streams from an [HD Homerun](https://www.silicondust.com/hdhomerun/) device
+- Providing [expertise](https://burdick.dev) for start ups and other small businesses building cool things
 - Exploring new ways to make government services better for everyone
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
