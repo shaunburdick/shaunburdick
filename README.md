@@ -14,9 +14,11 @@
 
 ## Currently Working On
 
+- Building and Securing AI with [Iris AI](https://delinea.com/products/delinea-platform-iris-ai)
+- Build [Skills](https://github.com/shaunburdick/skills) and harnesses with [Style](https://github.com/shaunburdick/style)
+- Rebuilding an old Java Applet game as [Europa Neo](https://github.com/shaunburdidk/europa-neo)
 - Building [HD Homey](https://github.com/shaunburdick/hd-homey) to proxy and share broadcast streams from an [HD Homerun](https://www.silicondust.com/hdhomerun/) device
 - Providing [expertise](https://burdick.dev) for start ups and other small businesses building cool things
-- Exploring new ways to make government services better for everyone
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
